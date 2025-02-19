@@ -19,8 +19,8 @@
           "name": "Happ",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/a1ir3z4HK/public-assets/refs/heads/VPNPRO/icons/Happ.png",
-          "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "description": "A V2Ray client for IOS devices.",
+          "faDescription": "Happ یک کلاینت V2Ray برای دستگاه‌های IOS است.",
           "configLink": "happ://add/{url}",
           "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
           "videoLink": "https://example.com/happ-video"
@@ -67,7 +67,7 @@
           "price": "0",
           "logo": "https://raw.githubusercontent.com/a1ir3z4HK/public-assets/refs/heads/VPNPRO/icons/Happ.png",
           "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "faDescription": "Happ یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "happ://add/{url}",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.happproxy",
           "videoLink": "https://example.com/happ-video"
